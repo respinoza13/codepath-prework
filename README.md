@@ -1,10 +1,10 @@
-# Prework - *Name of App Here*
+# Prework - *Change Background Color-inator*
 
-Submitted by: **Your Name Here**
+Submitted by: **Reynaldo Espinoza**
 
-**Name of your app** is an app that... [TODO] 
+**Change Background Color-inator** is an app that allows user to interface with a single button that changes the background color of the screen.  
 
-Time spent: **X** hours spent in total
+Time spent: **1** hour spent in total
 
 ## Required Features
 
