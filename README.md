@@ -1,8 +1,8 @@
-# Prework - *Change Background Color-inator*
+# Prework - *Background Color Change-inator*
 
 Submitted by: **Reynaldo Espinoza**
 
-**Change Background Color-inator** is an app that allows user to interface with a single button that changes the background color of the screen.  
+**Background Color Change-inator** is an app that allows user to interface with a single button that changes the background color of the screen.  
 
 Time spent: **1** hour spent in total
 
