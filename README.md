@@ -21,6 +21,11 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## App Brainstorming (Step 4)
 
+- Instagram: I really like the ability to message other people as well as upload pictures to a social network really fast
+- Rappi: I really like how easy it was to log in or make an account (phone, email, google, apple), and the simple UI
+- Discord: I like how simple the process of speaking to friends and sharing ideas with a small group of people is, as well as how smooth and cool the UI is
+- Idea: I want to build an app that allows people to connect with ridesharing drivers in rural peru to make sure that everyone gets to the bus (combi) on time and so that there are no surprises in schedules. It would be a simple interface that would change depending on the type of user. Passengers would be able to see pre-planned schedules, what drivers are currently there, late or early departures and would be able to rate different companies/drivers. Drivers would get to choose their schedules set locations, and communicate on late or early departures.
+
 ## Notes
 
 Describe any challenges encountered while building the app.
